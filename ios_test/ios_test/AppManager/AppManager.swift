@@ -6,7 +6,7 @@
 //  Copyright © 2020 Shyamal. All rights reserved.
 //
 
-import Foundation
+
 import SystemConfiguration
 
 class AppManager: NSObject {

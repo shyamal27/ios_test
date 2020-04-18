@@ -6,7 +6,6 @@
 //  Copyright © 2020 Shyamal. All rights reserved.
 //
 
-import Foundation
 import UIKit
 
 class UserContentListTableViewCell: UITableViewCell {

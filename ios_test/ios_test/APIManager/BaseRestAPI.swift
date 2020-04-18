@@ -6,8 +6,8 @@
 //  Copyright © 2020 Shyamal. All rights reserved.
 //
 
+
 import Foundation
-import UIKit
 import Alamofire
 
 class BaseRestAPI: NSObject {
